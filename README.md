@@ -13,9 +13,9 @@
 
 ### About me
 
-- 📊 I turn data into clear, actionable insights through analysis and storytelling.  
-- 🧹 Strong focus on data cleaning, exploratory analysis, and building dashboards.  
-- 🧠 Tools I use: **Python, SQL, Pandas, Power BI & Tableau**.  
+- 🧠 I analyze, clean, and model data using **Python/SQL** to uncover patterns and support decision-making.  
+- 🧹 Strong focus on **data cleaning**, exploratory analysis, and building dashboards.  
+- 🛠️ Tools I use: **Python, SQL, Pandas, Power BI & Tableau**.  
 - ₿ Interested in **crypto markets** and blockchain technology.  
 - 🤖 Curious about **AI, automation and new tech**.  
 - 📫 How to reach me: **unicemau@gmail.com**
