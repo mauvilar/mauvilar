@@ -7,16 +7,16 @@
 
 ### Hi there 👋, I'm Mau
 
-📊 Data Analyst  · 💻 Tech lover · ₿ Crypto trader
-
+📊 Data Analyst · 💻 Tech lover · ₿ Crypto trader
 
 ---
 
 ### About me
 
-- 🌱 Currently learning **Python, SQL & Power BI** in a Data Analytics bootcamp.  
-- 📊 I enjoy turning data into clear, actionable insights.  
-- ₿ I’m also into **crypto trading** and blockchain technology.  
+- 📊 I turn data into clear, actionable insights through analysis and storytelling.  
+- 🧹 Strong focus on data cleaning, exploratory analysis, and building dashboards.  
+- 🧠 Tools I use: **Python, SQL, Pandas, Power BI & Tableau**.  
+- ₿ Interested in **crypto markets** and blockchain technology.  
 - 🤖 Curious about **AI, automation and new tech**.  
 - 📫 How to reach me: **unicemau@gmail.com**
 
@@ -31,4 +31,3 @@
 ![n8n](https://img.shields.io/badge/n8n-0A1124?style=for-the-badge&logo=n8n&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-
