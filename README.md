@@ -4,9 +4,12 @@
 </p>
 
 <p align="center">
-  <a href="https://nyxaistudio.com"><img src="https://img.shields.io/badge/Nyx%20AI%20Studio-00DC82?style=for-the-badge&logoColor=000000" alt="Nyx AI Studio" /></a>
+  <a href="https://nyxaistudio.com"><img src="https://img.shields.io/badge/Website-nyxaistudio.com-00DC82?style=for-the-badge&logo=safari&logoColor=black" alt="Website" /></a>
+  <a href="https://linkedin.com/in/mauriciovilargiribet"><img src="https://img.shields.io/badge/LinkedIn-Mauricio%20Vilar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/NyxAIStudio"><img src="https://img.shields.io/badge/X-NyxAIStudio-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://instagram.com/nyxai.studio"><img src="https://img.shields.io/badge/Instagram-nyxai.studio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:unicemau@gmail.com"><img src="https://img.shields.io/badge/Email-unicemau%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/mauvilar"><img src="https://img.shields.io/github/followers/mauvilar?label=Follow&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="Follow" /></a>
+  <a href="https://github.com/mauvilar"><img src="https://img.shields.io/github/followers/mauvilar?label=Follow&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="Follow on GitHub" /></a>
 </p>
 
 ---
